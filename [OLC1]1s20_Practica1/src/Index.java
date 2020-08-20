@@ -44,7 +44,7 @@ public class Index extends javax.swing.JFrame {
     
     public Index() {
         initComponents();
-        imprimirImagen();
+        //imprimirImagen();
         this.setLocation(200, 50);
     }
 
